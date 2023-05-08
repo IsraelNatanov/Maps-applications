@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "aaaaaaaaaaaaa",
+            "description": "43.732, -83.9387"
+        },
+        "geometry": {
+          "coordinates": [
+            35.10335293519503,
+            32.80464263630684
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Hoyle's Marina-Linwood: 98-08-0324-P",
+            "description": "135 S Linwood Beach, Linwood"
+        },
+        "geometry": {
+          "coordinates": [
+            35.10083165872123,
+            32.80693313569677
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }

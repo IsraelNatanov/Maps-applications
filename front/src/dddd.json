@@ -1,0 +1,119 @@
+[
+  {
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [34.832530369033454, 32.162936952699714],
+          "type": "Point"
+        },
+        "properties": {
+          "name": "bbbbbbbbb",
+          "description": "135 S Linwood Beach, Linwood",
+          "typeStyle": "value2"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "קו",
+          "typeStyle": "value2"
+        },
+        "geometry": {
+          "coordinates": [
+            [34.8228670370475, 32.14253636044214],
+            [34.832530369033454, 32.162936952699714]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "קו",
+          "typeStyle": "value1"
+        },
+        "geometry": {
+          "coordinates": [
+            [34.8328670370475, 32.16253636044214],
+            [34.832530369033454, 32.162936952699714]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "קו",
+          "typeStyle": "value1"
+        },
+        "geometry": {
+          "coordinates": [
+            [34.8208670370475, 32.14053636044214],
+            [34.832530369033454, 32.162936952699714]
+          ],
+          "type": "LineString"
+        }
+      }
+    ]
+  },
+  {
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [34.84726974447829, 32.1706820042413],
+          "type": "Point"
+        },
+        "properties": {
+          "name": "bbbbbbbbb",
+          "description": "135 S Linwood Beach, Linwood",
+          "typeStyle": "value2"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "קו",
+          "typeStyle": "value1"
+        },
+        "geometry": {
+          "coordinates": [
+            [34.83984538992507, 32.16770200398436],
+            [34.84726974447829, 32.1706820042413]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "קו",
+          "typeStyle": "value2"
+        },
+        "geometry": {
+          "coordinates": [
+            [34.848600120149676, 32.165323707371144],
+            [34.84726974447829, 32.1706820042413]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "קו",
+          "typeStyle": "value1"
+        },
+        "geometry": {
+          "coordinates": [
+            [34.85147544821364, 32.16939240904837],
+            [34.84726974447829, 32.1706820042413]
+          ],
+          "type": "LineString"
+        }
+      }
+    ]
+  }
+]

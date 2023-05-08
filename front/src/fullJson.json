@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+ 
+  "features": [
+  
+    {
+      "type": "Feature",
+      "name": "bbbb",
+      "geometry": {
+        "coordinates": [34.84726974447829, 32.1706820042413],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bbbbbbbbb",
+        "description": "135 S Linwood Beach, Linwood",
+        "typeStyle": "value2",
+        "typeEvent": "event2"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "קו",
+        "typeStyle": "value1",
+        "typeEvent": "event1"
+      },
+      "geometry": {
+        "coordinates": [
+          [34.83984538992507, 32.16770200398436],
+          [34.84726974447829, 32.1706820042413]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "קו",
+        "typeStyle": "value2",
+        "typeEvent": "event1"
+      },
+      "geometry": {
+        "coordinates": [
+          [34.848600120149676, 32.165323707371144],
+          [34.84726974447829, 32.1706820042413]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "קו",
+        "typeStyle": "value1",
+        "typeEvent": "event1"
+      },
+      "geometry": {
+        "coordinates": [
+          [34.85147544821364, 32.16939240904837],
+          [34.84726974447829, 32.1706820042413]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
+
